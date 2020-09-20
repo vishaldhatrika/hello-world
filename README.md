@@ -1,5 +1,5 @@
 # hello-world
-my first git repository
+my first git reposito
 
 this is the line in readme for the second branch.
 
